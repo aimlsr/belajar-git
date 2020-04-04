@@ -4,4 +4,8 @@ saya sedang belajar GIT
 
 ini perubahan new_branch
 
+<<<<<<< HEAD
 test bentrok master
+=======
+test bentrok master ini fitur pertama
+>>>>>>> new_branch
