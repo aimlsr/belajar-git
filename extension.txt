@@ -3,3 +3,5 @@ Nama saya Amelia Sari
 saya sedang belajar GIT
 
 ini perubahan new_branch
+
+test bentrok master
