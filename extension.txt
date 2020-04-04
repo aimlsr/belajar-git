@@ -2,4 +2,4 @@ Nama saya Amelia Sari
 
 saya sedang belajar GIT
 
-dengan kak aas asrini
+ini perubahan new_branch
